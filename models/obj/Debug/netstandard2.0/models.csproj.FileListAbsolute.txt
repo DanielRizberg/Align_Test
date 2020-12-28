@@ -1,0 +1,9 @@
+C:\Users\melts\Desktop\dotnet core\models\bin\Debug\netstandard2.0\models.deps.json
+C:\Users\melts\Desktop\dotnet core\models\bin\Debug\netstandard2.0\models.dll
+C:\Users\melts\Desktop\dotnet core\models\bin\Debug\netstandard2.0\models.pdb
+C:\Users\melts\Desktop\dotnet core\models\obj\Debug\netstandard2.0\models.csprojAssemblyReference.cache
+C:\Users\melts\Desktop\dotnet core\models\obj\Debug\netstandard2.0\models.AssemblyInfoInputs.cache
+C:\Users\melts\Desktop\dotnet core\models\obj\Debug\netstandard2.0\models.AssemblyInfo.cs
+C:\Users\melts\Desktop\dotnet core\models\obj\Debug\netstandard2.0\models.csproj.CoreCompileInputs.cache
+C:\Users\melts\Desktop\dotnet core\models\obj\Debug\netstandard2.0\models.dll
+C:\Users\melts\Desktop\dotnet core\models\obj\Debug\netstandard2.0\models.pdb

@@ -1,0 +1,14 @@
+C:\Users\melts\Desktop\dotnet core\repositery\bin\Debug\netstandard2.0\repositery.deps.json
+C:\Users\melts\Desktop\dotnet core\repositery\bin\Debug\netstandard2.0\repositery.dll
+C:\Users\melts\Desktop\dotnet core\repositery\bin\Debug\netstandard2.0\repositery.pdb
+C:\Users\melts\Desktop\dotnet core\repositery\bin\Debug\netstandard2.0\interfaces.dll
+C:\Users\melts\Desktop\dotnet core\repositery\bin\Debug\netstandard2.0\models.dll
+C:\Users\melts\Desktop\dotnet core\repositery\bin\Debug\netstandard2.0\interfaces.pdb
+C:\Users\melts\Desktop\dotnet core\repositery\bin\Debug\netstandard2.0\models.pdb
+C:\Users\melts\Desktop\dotnet core\repositery\obj\Debug\netstandard2.0\repositery.csprojAssemblyReference.cache
+C:\Users\melts\Desktop\dotnet core\repositery\obj\Debug\netstandard2.0\repositery.AssemblyInfoInputs.cache
+C:\Users\melts\Desktop\dotnet core\repositery\obj\Debug\netstandard2.0\repositery.AssemblyInfo.cs
+C:\Users\melts\Desktop\dotnet core\repositery\obj\Debug\netstandard2.0\repositery.csproj.CoreCompileInputs.cache
+C:\Users\melts\Desktop\dotnet core\repositery\obj\Debug\netstandard2.0\repositery.csproj.CopyComplete
+C:\Users\melts\Desktop\dotnet core\repositery\obj\Debug\netstandard2.0\repositery.dll
+C:\Users\melts\Desktop\dotnet core\repositery\obj\Debug\netstandard2.0\repositery.pdb
