@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dzrInx9jUa3MaiYw5dUoamVOKQPJb4+CkN+Cw9JqsCfoOvozYxh+lwnY1aczg+rxdCEIBPNUSsWb3HsMddxx4w==",
+  "dgSpecHash": "HijUIIHJKMCnYjZd9WDxKz+ehexB0ckFbM6gqTUF5j3IsP0MGNAl/3gWpOAagWiRJ0C6j86LkZOfc22jmR60Iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\melts\\Desktop\\dotnet core\\models\\models.csproj",
+  "projectFilePath": "C:\\Users\\melts\\Desktop\\dotnet core\\aligntest\\models\\models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\melts\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\melts\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\melts\\Desktop\\dotnet core\\models\\models.csproj": {}
+    "C:\\Users\\melts\\Desktop\\dotnet core\\aligntest\\models\\models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\melts\\Desktop\\dotnet core\\models\\models.csproj": {
+    "C:\\Users\\melts\\Desktop\\dotnet core\\aligntest\\models\\models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\melts\\Desktop\\dotnet core\\models\\models.csproj",
+        "projectUniqueName": "C:\\Users\\melts\\Desktop\\dotnet core\\aligntest\\models\\models.csproj",
         "projectName": "models",
-        "projectPath": "C:\\Users\\melts\\Desktop\\dotnet core\\models\\models.csproj",
+        "projectPath": "C:\\Users\\melts\\Desktop\\dotnet core\\aligntest\\models\\models.csproj",
         "packagesPath": "C:\\Users\\melts\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\melts\\Desktop\\dotnet core\\models\\obj\\",
+        "outputPath": "C:\\Users\\melts\\Desktop\\dotnet core\\aligntest\\models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -262,11 +262,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\melts\\Desktop\\dotnet core\\repositery\\repositery.csproj",
+      "projectUniqueName": "C:\\Users\\melts\\Desktop\\dotnet core\\aligntest\\repositery\\repositery.csproj",
       "projectName": "repositery",
-      "projectPath": "C:\\Users\\melts\\Desktop\\dotnet core\\repositery\\repositery.csproj",
+      "projectPath": "C:\\Users\\melts\\Desktop\\dotnet core\\aligntest\\repositery\\repositery.csproj",
       "packagesPath": "C:\\Users\\melts\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\melts\\Desktop\\dotnet core\\repositery\\obj\\",
+      "outputPath": "C:\\Users\\melts\\Desktop\\dotnet core\\aligntest\\repositery\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -287,11 +287,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\melts\\Desktop\\dotnet core\\interfaces\\interfaces.csproj": {
-              "projectPath": "C:\\Users\\melts\\Desktop\\dotnet core\\interfaces\\interfaces.csproj"
+            "C:\\Users\\melts\\Desktop\\dotnet core\\aligntest\\interfaces\\interfaces.csproj": {
+              "projectPath": "C:\\Users\\melts\\Desktop\\dotnet core\\aligntest\\interfaces\\interfaces.csproj"
             },
-            "C:\\Users\\melts\\Desktop\\dotnet core\\models\\models.csproj": {
-              "projectPath": "C:\\Users\\melts\\Desktop\\dotnet core\\models\\models.csproj"
+            "C:\\Users\\melts\\Desktop\\dotnet core\\aligntest\\models\\models.csproj": {
+              "projectPath": "C:\\Users\\melts\\Desktop\\dotnet core\\aligntest\\models\\models.csproj"
             }
           }
         }

@@ -202,11 +202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\melts\\Desktop\\dotnet core\\interfaces\\interfaces.csproj",
+      "projectUniqueName": "C:\\Users\\melts\\Desktop\\dotnet core\\aligntest\\interfaces\\interfaces.csproj",
       "projectName": "interfaces",
-      "projectPath": "C:\\Users\\melts\\Desktop\\dotnet core\\interfaces\\interfaces.csproj",
+      "projectPath": "C:\\Users\\melts\\Desktop\\dotnet core\\aligntest\\interfaces\\interfaces.csproj",
       "packagesPath": "C:\\Users\\melts\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\melts\\Desktop\\dotnet core\\interfaces\\obj\\",
+      "outputPath": "C:\\Users\\melts\\Desktop\\dotnet core\\aligntest\\interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -227,8 +227,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\melts\\Desktop\\dotnet core\\models\\models.csproj": {
-              "projectPath": "C:\\Users\\melts\\Desktop\\dotnet core\\models\\models.csproj"
+            "C:\\Users\\melts\\Desktop\\dotnet core\\aligntest\\models\\models.csproj": {
+              "projectPath": "C:\\Users\\melts\\Desktop\\dotnet core\\aligntest\\models\\models.csproj"
             }
           }
         }

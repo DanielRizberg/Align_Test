@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T4OHdI1CAtADLaOBWGkgSsX+97BTlby87/eEmikFsSOJin4MWgn3JylPb6P0uwj/eAZYmIPHgyZMfbORkxU3sg==",
+  "dgSpecHash": "LFQpv60zJPChQS7Cp/P7zTu9svShGBINt69L0LdKLc1JSY+pC8z94TOqd5LkkSBUoO+pb75KjA53YtVen4oQ+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\melts\\Desktop\\dotnet core\\interfaces\\interfaces.csproj",
+  "projectFilePath": "C:\\Users\\melts\\Desktop\\dotnet core\\aligntest\\interfaces\\interfaces.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\melts\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\melts\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
